@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "852ec5edfb5785a4862182714e6abf6b",
+    "revision": "4ab65b99e273c866c781c7a33b5409fb",
     "url": "/my-travelss/index.html"
   },
   {
-    "revision": "ed8eb9e52bad5b4c4bac",
+    "revision": "5849c01224caddefbb78",
     "url": "/my-travelss/static/css/main.e74c6d8b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-travelss/static/js/2.b600eb30.chunk.js"
   },
   {
-    "revision": "ed8eb9e52bad5b4c4bac",
-    "url": "/my-travelss/static/js/main.300e886c.chunk.js"
+    "revision": "5849c01224caddefbb78",
+    "url": "/my-travelss/static/js/main.85837228.chunk.js"
   },
   {
     "revision": "52b660dfbe656931a3bb",
@@ -42,9 +42,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "74aa47b638eafd676bc7b0492e2fcb29",
     "url": "/my-travelss/static/media/6.74aa47b6.jpg"
-  },
-  {
-    "revision": "83e1791c85eb46582f60495a400b5ba4",
-    "url": "/my-travelss/static/media/mypic.83e1791c.jpg"
   }
 ]);
