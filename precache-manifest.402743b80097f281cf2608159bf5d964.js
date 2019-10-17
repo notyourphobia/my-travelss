@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef2ef5628cae647330bbaf98db7ad503",
+    "revision": "3b693f09e856bb0b3de726ad16c6d9ad",
     "url": "/my-travelss/index.html"
   },
   {
-    "revision": "939cac0235021699ce47",
+    "revision": "3dec439942b450350f6a",
     "url": "/my-travelss/static/css/main.e74c6d8b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-travelss/static/js/2.b600eb30.chunk.js"
   },
   {
-    "revision": "939cac0235021699ce47",
-    "url": "/my-travelss/static/js/main.80855451.chunk.js"
+    "revision": "3dec439942b450350f6a",
+    "url": "/my-travelss/static/js/main.0251cf9e.chunk.js"
   },
   {
     "revision": "52b660dfbe656931a3bb",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "74aa47b638eafd676bc7b0492e2fcb29",
     "url": "/my-travelss/static/media/_0005_Bucharest3.74aa47b6.jpg"
+  },
+  {
+    "revision": "83e1791c85eb46582f60495a400b5ba4",
+    "url": "/my-travelss/static/media/mypic.83e1791c.jpg"
   }
 ]);
