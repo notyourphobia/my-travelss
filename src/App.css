@@ -1,0 +1,36 @@
+#destination {
+  text-align: center;
+  font-size: 24px;
+  color: #c8cbe4;
+  border: 9px double #000850;
+  margin: auto;
+  padding: 3px;
+}
+
+#country {
+  text-align: center;
+  font-size: 24px;
+  color: #c8cbe4;
+  border: 9px double #000850;
+  margin: auto;
+  padding: 3px;
+}
+
+#photo {
+  text-align: center;
+  font-size: 24px;
+  color: #c8cbe4;
+  border: 9px double #000850;
+  margin: auto;
+  padding: 3px;
+}
+
+#distance {
+  text-align: center;
+  font-size: 24px;
+  color: #c8cbe4;
+  border: 9px double #000850;
+  margin: auto;
+  padding: 3px;
+}
+/*# sourceMappingURL=App.css.map */

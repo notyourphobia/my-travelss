@@ -1,0 +1,28 @@
+
+$textColor: rgb(200, 203, 228);
+$borderColor: rgb(0, 8, 80);
+$fillColor: rgb(0, 8, 80);
+
+
+@mixin boxStyle {
+    text-align: center;
+    font-size: 24px;
+    color: $textColor;
+    border: 9px double $borderColor;
+    margin: auto;
+    padding: min($numbers: 3px);
+
+}
+
+#destination{
+    @include boxStyle();
+}
+#country{
+    @include boxStyle();
+}
+#photo{
+    @include boxStyle();
+}
+#distance{
+    @include boxStyle();
+}
