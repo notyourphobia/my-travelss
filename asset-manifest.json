@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-travelss/static/css/main.e74c6d8b.chunk.css",
+    "main.js": "/my-travelss/static/js/main.80855451.chunk.js",
+    "main.js.map": "/my-travelss/static/js/main.80855451.chunk.js.map",
+    "runtime-main.js": "/my-travelss/static/js/runtime-main.d07a6cc6.js",
+    "runtime-main.js.map": "/my-travelss/static/js/runtime-main.d07a6cc6.js.map",
+    "static/js/2.b600eb30.chunk.js": "/my-travelss/static/js/2.b600eb30.chunk.js",
+    "static/js/2.b600eb30.chunk.js.map": "/my-travelss/static/js/2.b600eb30.chunk.js.map",
+    "index.html": "/my-travelss/index.html",
+    "precache-manifest.4c1dced48de607c2e2e1fdcba467ec0a.js": "/my-travelss/precache-manifest.4c1dced48de607c2e2e1fdcba467ec0a.js",
+    "service-worker.js": "/my-travelss/service-worker.js",
+    "static/css/main.e74c6d8b.chunk.css.map": "/my-travelss/static/css/main.e74c6d8b.chunk.css.map",
+    "static/media/_0000_NeonTokyo1.jpg": "/my-travelss/static/media/_0000_NeonTokyo1.83e1791c.jpg",
+    "static/media/_0001_NeonTokyo2.jpg": "/my-travelss/static/media/_0001_NeonTokyo2.de69c6d5.jpg",
+    "static/media/_0002_NeonTokyo3.jpg": "/my-travelss/static/media/_0002_NeonTokyo3.a13c3bb6.jpg",
+    "static/media/_0003_Bucharest1.jpg": "/my-travelss/static/media/_0003_Bucharest1.ed59ff9a.jpg",
+    "static/media/_0004_Bucharest2.jpg": "/my-travelss/static/media/_0004_Bucharest2.2e3242e5.jpg",
+    "static/media/_0005_Bucharest3.jpg": "/my-travelss/static/media/_0005_Bucharest3.74aa47b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07a6cc6.js",
+    "static/js/2.b600eb30.chunk.js",
+    "static/css/main.e74c6d8b.chunk.css",
+    "static/js/main.80855451.chunk.js"
+  ]
+}
