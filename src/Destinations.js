@@ -1,6 +1,6 @@
 import React from "react";
 
-const Quotes = () => {
+const Destination = () => {
     let dArr = ['Neon-Tokyo', 'Unknown', 'Arbitrary', 'Random', 'Wherever'];
     return (<ul>{dArr.map(x => <li>{x}</li>)}</ul>);
 };
